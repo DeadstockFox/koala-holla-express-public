@@ -51,3 +51,16 @@ Upon completion of the project you'll need to provide not only the source (via G
 Your final product may look something like this:
 
 ![sample](sample.png)
+
+
+Checklist:
+
+[x] Npm install, PG install, Create Database.SQL file with values
+[x] Create database in Postico, connect database to VSCode
+[x] Create GET request to pull current Koalas to server
+[] Create GET request for client side
+[] Create function to take inputs from DOM
+[] Package inputs in a POST request on client side
+[] Create POST request on Server and connect to client/database.
+[] Ready For Transfer Toggle (PUT Request?)
+[]
